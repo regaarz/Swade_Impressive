@@ -4,7 +4,7 @@
 const char* ssid = "arzula";
 const char* password = "12345678";
 
-String serverName = "http://10.154.199.85:5000/send_distance";  // IP Flask server
+String serverName = "https://web-production-ddf6.up.railway.app/send_distance";  // IP Flask server
 
 // Sensor 1 - organik
 #define TRIG1 5
